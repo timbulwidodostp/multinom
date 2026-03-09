@@ -1,6 +1,8 @@
 # multinom
 Fits multinomial log-linear models via neural networks Use multinom (nnet) With (In) R Software
 
+https://www.youtube.com/watch?v=XUVMR9kC1Pw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
